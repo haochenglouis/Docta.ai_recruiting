@@ -2,7 +2,7 @@
 
 Docta.ai招人啦！
 
-Docta.ai是一家初创公司，专注于确保深度学习、机器学习以及大型语言模型的训练数据的安全和可靠性（详细信息请参考我们的GitHub页面：https://github.com/Docta-ai/docta 。
+Docta.ai是一家初创公司，专注于确保深度学习、机器学习以及大型语言模型的训练数据的安全和可靠性（详细信息请参考我们的GitHub页面 https://github.com/Docta-ai/docta 。
 目前，我们正在寻找机器学习工程师（MLE）、前端工程师和后端工程师，岗位具体要求如下：
 
 ## 前端工程师职位简介：（10k~20k/m）
